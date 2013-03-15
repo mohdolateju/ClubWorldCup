@@ -1,0 +1,12 @@
+1 /Barcelona Football Club    /WorldClass  /4,4,4,2,2/3.0/   Spain    
+2 /Club le Fluminese          /Professional/0,4,0,4,4/3.0/   Brazil   
+3 /New York Red Bulls         /Professional/1,1,1,1,1/1.0/   U.S.A    
+4 /XinXong Football Club      /Amateur     /1,4,1,1,1/2.0/   China    
+5 /Al-Barsha United           /Professional/2,0,2,2,2/2.0/   U.A.E    
+6 /SpringBocks Football Club  /Amateur     /1,0,2,1,2/2.0*South Africa
+7 /RealMadrid Football Club   /WorldClass  /2,2,3,5,2/2.0/   Spain    
+8 /Intenactional Football Club/Professional/5,5,1,3,4/4.0/   Brazil   
+9 /Los Angeles Galaxy         /Professional/4,2,1,1,1/2.0/   U.S.A    
+10/HongKong United           /Amateur     /1,1,1,2,3/2.0/    China    
+11/Tecom Emirates            /Amateur     /3,1,2,1,3/3.0/    U.A.E    
+12/Pretoria Football Club    /Amateur     /5,1,2,3,4/5.0/South Africa

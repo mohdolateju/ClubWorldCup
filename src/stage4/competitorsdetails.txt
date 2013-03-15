@@ -1,0 +1,13 @@
+1/Barcelona Football Club/4,4,4,2,2/WorldClass/Spain
+2/Club le Fluminese/0,4,0,4,4/Professional/Brazil
+3/NewYork Red Bulls/1,1,1,1,1/Professional/U.S.A
+4/XinXong Football Club/1,4,1,1,1/Amateur/China
+5/Al Barsha United/2,0,2,2,2/Professional/U.A.E
+6/SpringBocks Football Club/1,0,2,1,2/Amateur/South Africa
+7/RealMadrid Football Club/2,2,3,5,2/WorldClass/Spain
+8/Intenacional Football Club/5,5,1,3,4/Professional/Brazil
+9/Los Angeles Galaxy/4,2,1,1,1/Professional/U.S.A
+10/Hong Kong United/1,1,1,2,3/Amateur/China
+11/Tecom Emirates Club/3,1,2,1,3/Amateur/U.A.E
+12/Pretoria Football Club/5,1,2,3,4/Amateur/South Africa
+13/Antartica Football Club/5,5,5,5,5/WorldClass/Antartica
